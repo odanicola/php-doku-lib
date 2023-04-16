@@ -1,0 +1,17 @@
+{
+    "name": "levitate/practice-joku-php-library",
+    "type": "library",
+    "description": "Practice Joku PHP Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Levitate",
+            "email": "zoho.madina@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"DOKU//": "src/DOKU/"}
+    },
+    "require": {}
+}
